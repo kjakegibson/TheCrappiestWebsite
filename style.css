@@ -1,0 +1,28 @@
+#logo{
+	width:20%;
+	height: 15%;
+	text-align: center;
+	position: fixed;
+}
+
+header{
+
+}
+nav{
+
+}
+section{
+font-size: 2em;
+}
+article{
+background-color: orange;
+float: left;
+font-size: 2em;
+}
+aside{
+}
+footer{
+background-color: pink;
+font-size: 2em;
+}
+
